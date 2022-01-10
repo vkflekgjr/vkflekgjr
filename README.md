@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=800080&height=140&section=footer&text=Hello%20World!&fontSize=80&fontColor=ff1493)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=140&section=footer&text=Hello%20World!&fontSize=80&fontColor=f2f2f2)
 
   :blush: Hello everyone :blush:
   
