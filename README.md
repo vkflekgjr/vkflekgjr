@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=140&section=footer&text=Hello%20World!&fontSize=80)
 
+  :blush: Hello everyone :blush:
+  
+  My name is Suman Kim 
+
+  I'm a 26 years old from Seoul.
+
 ## Skills
 
 <img src="https://img.shields.io/badge/Adobe Illustrator-DA1F26?style=flat&logo=Adobe Illustrator&logoColor=FFFFFF"/></a>
